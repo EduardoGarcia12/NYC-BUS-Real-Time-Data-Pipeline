@@ -60,12 +60,12 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 
 ### Dashboard en Looker Studio
 
-En el siguiente grafico se entiende que si el valor es negativo, entonces es porque dicho autobus esta llegando antes del tiempo asignado.
-
 <p align="center">
   <img src="dashboar/promedio_retraso.png" width="900"/>
 </a>
 </p>
+
+En el siguiente grafico se entiende que si el valor es negativo, entonces es porque dicho autobus esta llegando antes del tiempo asignado.
 
 <p align="center">
   <img src="dashboar/retrazo_buses.jpg" width="900"/>
