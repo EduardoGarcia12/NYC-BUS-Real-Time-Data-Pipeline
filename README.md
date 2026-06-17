@@ -61,7 +61,7 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 ### Dashboard en Looker Studio
 
 <p align="center">
-  <img src="dashboar/promedio_retraso.jpg" width="900"/>
+  <img src="dashboar/promedio_retraso.png" width="900"/>
 </a>
 </p>
 
