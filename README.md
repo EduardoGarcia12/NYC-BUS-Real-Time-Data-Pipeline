@@ -25,7 +25,7 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="arquitecture_bus.png" width="900"/>
+  <img src="arquitectura/arqui_nyb3.jpg" width="900"/>
 </p>
 
 ---
