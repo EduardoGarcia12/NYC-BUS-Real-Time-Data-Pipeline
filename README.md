@@ -60,6 +60,8 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 
 ### Dashboard en Looker Studio
 
+En el siguiente grafico se entiende que si el valor es negativo, entonces es porque dicho autobus esta llegando antes del tiempo asignado.
+
 <p align="center">
   <img src="dashboar/promedio_retraso.png" width="900"/>
 </a>
@@ -80,7 +82,7 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 
 ## ⚙️ Flujo de trabajo del pipeline
 
-1. Extraer los datos con ayuda de una API KEY y URL, trasformalos y cargarlos a PostgreSQL para poder visuaizar información relevante con MetaBase. 
+1. Extraer los datos con ayuda de una API KEY y URL, trasformalos y cargarlos a PostgreSQL para poder visualizar información relevante con MetaBase. 
 2. Orquestar el proceso ETL con ayuda de Airflow.
 3. Dockerizar todo la arquitectura con a un archivo docker compose. 
 4. Escribir consultas que nos ayuden a obtener nuestra información relevante. 
